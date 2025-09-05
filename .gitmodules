@@ -1,0 +1,3 @@
+[submodule "jumtukaayu-cantor-frontend"]
+	path = jumtukaayu-cantor-frontend
+	url = https://github.com/Hervecamille/jumtukaayu-cantor-frontend.git
